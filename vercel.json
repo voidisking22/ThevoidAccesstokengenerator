@@ -1,4 +1,9 @@
 {
   "version": 2,
-  "regions": ["sin1"]
+  "regions": ["sin1"],
+  "functions": {
+    "main.py": {
+      "maxDuration": 30
+    }
+  }
 }
