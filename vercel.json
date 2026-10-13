@@ -3,7 +3,6 @@
   "regions": ["sin1"],
   "functions": {
     "api/convert.py": {
-      "runtime": "python3.11",
       "maxDuration": 30
     }
   }
