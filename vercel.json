@@ -1,9 +1,4 @@
 {
   "version": 2,
-  "regions": ["sin1"],
-  "functions": {
-    "api/convert.py": {
-      "maxDuration": 30
-    }
-  }
+  "regions": ["sin1"]
 }
